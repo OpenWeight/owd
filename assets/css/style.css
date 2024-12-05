@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+a:link {
+    color: #B0B0B0; /* Light grey for unvisited links */
+}
+
+a:hover {
+    color: #A0A0A0; /* Slightly darker grey for hover effect */
+}
+
 a:visited {
     color: #808080; /* Changed visited link color to grey for better visibility on grey background */
 }
