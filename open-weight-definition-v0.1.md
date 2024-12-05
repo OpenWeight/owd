@@ -1,13 +1,13 @@
-# The Open Source Definition
+# The Open Weight Definition
 
 ## Introduction
-Open source doesn’t just mean access to the source code. The distribution terms of open source software must comply with the following criteria:
+Open weight doesn't just mean access to the model weights. The distribution terms of open weight models must comply with the following criteria:
 
 ## 1. Free Redistribution
 The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
 
-## 2. Source Code
-The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
+## 2. Model Weights
+The model must include the weights, and must allow distribution of the weights. Where some form of a product is not distributed with the weights, there must be a well-publicized means of obtaining the weights for no more than a reasonable reproduction cost. The weights must be the actual form in which a practitioner would use the model. Deliberately obfuscated weights are not allowed. Intermediate forms, such as derived or quantized versions, are allowed only if they are equivalent to the weights used by the distributor in their own distribution or deployment.
 
 ## 3. Derived Works
 The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
