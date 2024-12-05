@@ -34,7 +34,7 @@ This is a draft. We welcome feedback from all corners of the AI, legal, and open
 
 ## Associated Documents
 
-- **[License](LICENSE.md):** A document detailing licenses compatible with the OWD.
+- **[License](LICENSE.txt):** Creative Commons Attribution 4.0 International License (Opensource.org).
 - **[Frequently Asked Questions (FAQ)](FAQ.md):** A frequently asked questions document to address common queries.
 - **[Contribution Guidelines](CONTRIBUTING.md):** Instructions for contributing to the OWD project.
 
