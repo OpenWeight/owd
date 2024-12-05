@@ -33,7 +33,7 @@ The license must not place restrictions on other software that is distributed al
 ## 10. License Must Be Technology-Neutral
 No provision of the license may be predicated on any individual technology or style of interface.
 
-*The Open Source Definition was originally derived from the Debian Free Software Guidelines (DFSG).*
+*The Open Weight Definition was originally derived from the Open Source Definition, which was derived from the Debian Free Software Guidelines (DFSG).*
 
-*Version 1.9, last modified, 2007-03-22*
+*Version 0.1, last modified, 2024-12-05*
 
