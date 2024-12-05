@@ -36,4 +36,3 @@ No provision of the license may be predicated on any individual technology or st
 *The Open Weight Definition was originally derived from the Open Source Definition, which was derived from the Debian Free Software Guidelines (DFSG).*
 
 *Version 0.1, last modified, 2024-12-05*
-
