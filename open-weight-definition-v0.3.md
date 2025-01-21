@@ -1,7 +1,7 @@
 # The Open Weight Definition
 
 ## Introduction
-Open Weight doesn’t just mean access to the model weights. The distribution terms of Open Weight models, which do not require distribution of the source, such as training data, used to produce the weights, must comply with the following criteria:
+Open Weight doesn’t just mean access to the model weights. The distribution terms of Open Weight models, which do not require distribution of source such as training data used to produce the weights, must comply with the following criteria:
 
 ## 1. Free Redistribution
 The license shall not restrict any party from selling or giving away the weights as a component of an aggregate distribution containing components from several different sources. The license shall not require a royalty or other fee for such sale.
