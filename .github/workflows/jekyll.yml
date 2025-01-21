@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
@@ -15,14 +15,13 @@ jobs:
 
     - name: Set up Ruby
       run: |
-        git clone https://github.com/rbenv/ruby-build.git
-        PREFIX=$RUNNER_TOOL_CACHE ./ruby-build/install.sh
-        $RUNNER_TOOL_CACHE/bin/ruby-build 3.3.0-preview3 $RUNNER_TOOL_CACHE/Ruby/3.3.0-preview3/x64
-        touch $RUNNER_TOOL_CACHE/Ruby/3.3.0-preview3/x64.complete
-        export PATH="$RUNNER_TOOL_CACHE/Ruby/3.3.0-preview3/x64/bin:$PATH"
+        sudo apt-get update
+        sudo apt-get install -y ruby-full build-essential zlib1g-dev
 
     - name: Install dependencies
-      run: bundle install
+      run: |
+        gem install bundler
+        bundle install
 
     - name: Build Jekyll site
       run: bundle exec jekyll build
