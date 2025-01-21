@@ -33,6 +33,6 @@ The license must not place restrictions on other components that are distributed
 ## 10. License Must Be Technology-Neutral
 No provision of the license may be predicated on any individual technology or style of interface.
 
-*The [Open Weight Definition](https://openweight.org/owd) was originally derived from the [Open Source Definition](https://opensourcedefinition.org/), which was derived from the [Debian Free Software Guidelines (DFSG)](https://www.debian.org/social_contract#guidelines).*
+*The [Open Weight Definition](https://openweight.org/owd) was originally based on the [Open Source Definition](https://opensourcedefinition.org/), which was derived from the [Debian Free Software Guidelines (DFSG)](https://www.debian.org/social_contract#guidelines).*
 
 *Version 0.3, last modified, 2025-01-21*
